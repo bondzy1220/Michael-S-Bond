@@ -1,17 +1,16 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+title: Michael Bond
+description: Michael Bond is a MA candidate at the George Washington University Elliott School specializing in defense analysis, East Asian security, and applied statistics
+keywords: statistics, data analytics, defense analysis
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/Documents/MSB Resume 3.0.pdf">cv</a></li>
+          <li><a href="https://github.com/bondzy1220">github</a></li>       
+          <li><a href="https://www.linkedin.com/in/michael-bond-52894b29/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
