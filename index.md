@@ -21,19 +21,19 @@ keywords: statistics, data analytics, defense analysis
 <tr>
   <td class="left">
     <a href="pages/icons16/heat map.html">
-        <img src="assets/publpics/heat map.png" 
+        <img src="pages/icons16/heat map.png" 
     </a>
   </td>
   <td class="right">
     <a href="pages/icons16/scater plot.html">
-        <img src="assets/publpics/scater plot.png" 
+        <img src="pages/icons16/scater plot.png" 
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="pages/icons16/kill count.html">
-        <img src="assets/publpics/kill count.png" 
+        <img src="pages/icons16/kill count.png" 
    
     
   </div>
