@@ -20,21 +20,20 @@ keywords: statistics, data analytics, defense analysis
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/heat map.html">
-        <img src="assets/publpics/heat map.pngg" 
+    <a href="pages/icons16/heat map.html">
+        <img src="assets/publpics/heat map.png" 
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/scater plot.html">
-        <img src="assets/publpics/scater plot.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/icons16/scater plot.html">
+        <img src="assets/publpics/scater plot.png" 
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/kill count.html">
-        <img src="assets/publpics/kill count.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/icons16/kill count.html">
+        <img src="assets/publpics/kill count.png" 
    
     
   </div>
