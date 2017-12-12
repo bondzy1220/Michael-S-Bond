@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [assignment2 results](https://github.com/bondzy1220/assignments.github.io/blob/master/EMSE6992_Assignments/HW2.ipynb)| [assignment2 repositiory](https://github.com/bondzy1220/assignments.github.io)|
 
 ---
 
@@ -74,7 +74,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| [assignment3 results](https://github.com/bondzy1220/assignments.github.io/blob/master/EMSE6992_Assignments/HW3.ipynb)| [assignment3 repositiory](ttps://github.com/bondzy1220/assignments.github.io)|
 
 ---
 
