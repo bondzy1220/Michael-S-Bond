@@ -8,7 +8,7 @@ keywords: statistics, data analytics, defense analysis
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="Portfolio/assets/MSB Resume 3.0.pdf">cv</a></li>
+          <li><a href="https://github.com/bondzy1220/bondzy1220.github.io/blob/master/assets/MSB Resume 3.0.pdf">cv</a></li>
           <li><a href="https://github.com/bondzy1220">github</a></li>       
           <li><a href="https://www.linkedin.com/in/michael-bond-52894b29/">LinkedIn</a></li>
       </ul>
